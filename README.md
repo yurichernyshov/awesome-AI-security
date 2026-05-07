@@ -11,3 +11,36 @@ https://www.promptfoo.dev/blog/top-llm-safety-bias-benchmarks/
 # DevOps / MLOps / LLMOps / DevSecOps / MLSecOps / LLMSecOps / AppSec
 
 Работа с git https://git-scm.com/book/en/v2
+
+# Метрики оценки
+
+##  Стандарты
+
+CVSS
+
+AIVSS
+
+EPSS (Exploit Prediction Scoring System): Используют данные и машинное обучение для предсказания того, что уязвимость будет проэесплуатирована
+
+SSVC (Stakeholder-Specific Vulnerability Categorization)
+
+CISA KEV (Known Exploited Vulnerabilities)
+
+CVEShield, CVE Crowd, CVETrends
+
+Vulners AI Score
+
+Методика оценки уровня опасностей уязвимостей ФСТЭК
+
+
+
+## Статьи
+
+Системы оценки критичности уязвимостей в AI Security [https://habr.com/ru/articles/888048]
+
+On the Validity of Traditional Vulnerability Scoring Systems for Adversarial Attacks against LLMs [https://arxiv.org/abs/2412.20087]
+
+Membership Inference Attacks Against Machine Learning Models [https://arxiv.org/pdf/1610.05820]
+
+Что делать, когда все уязвимости одинаково опасны? [https://rezbez.ru/reviews/chto-delat-kogda-vse-uyazvimosti-odinakovo-opasny]
+
