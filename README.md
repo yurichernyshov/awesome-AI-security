@@ -7,10 +7,29 @@ https://github.com/CyberMetric
 
 https://www.promptfoo.dev/blog/top-llm-safety-bias-benchmarks/
 
+Malicious-Educator 
+
+HarmBench
+
+CyberSecEval, HarmBench, SafeChain и SafeRBench.
+
+
 
 # DevOps / MLOps / LLMOps / DevSecOps / MLSecOps / LLMSecOps / AppSec
 
 Работа с git https://git-scm.com/book/en/v2
+
+## Атака
+garak
+promptfoo
+HiveTraceRed
+PyRIT
+
+## Защита
+NEMO Guardrails
+LLM Guard
+
+
 
 # Метрики оценки
 
