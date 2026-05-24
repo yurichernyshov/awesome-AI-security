@@ -51,6 +51,10 @@ Vulners AI Score
 
 Методика оценки уровня опасностей уязвимостей ФСТЭК
 
+## Фреймворки
+
+https://github.com/owasp/www-project-artificial-intelligence-vulnerability-scoring-system
+
 
 
 ## Статьи
