@@ -1,7 +1,20 @@
 # awesome-AI-security
 Links and materials about AI security
 
-# LLM security testing benchmarks
+Contents
+
+[LLM security testing benchmarks]()
+[DevOps / MLOps / LLMOps / DevSecOps / MLSecOps / LLMSecOps / AppSec]()
+[LLM attack tools]()
+[LLM defend tools]()
+[LLM security/safety metrics]()
+[Standards]()
+[Framework]()
+[Articles](!Articles)
+
+
+
+## LLM security testing benchmarks
 
 https://github.com/CyberMetric
 
@@ -14,26 +27,28 @@ HarmBench
 CyberSecEval, HarmBench, SafeChain и SafeRBench.
 
 
-
-# DevOps / MLOps / LLMOps / DevSecOps / MLSecOps / LLMSecOps / AppSec
+## DevOps / MLOps / LLMOps / DevSecOps / MLSecOps / LLMSecOps / AppSec
 
 Работа с git https://git-scm.com/book/en/v2
 
-## Атака
+## LLM attack tools
+
 garak
 promptfoo
 HiveTraceRed
 PyRIT
 
-## Защита
+## LLM defent tools
 NEMO Guardrails
+https://github.com/NVIDIA-NeMo/Guardrails
+
 LLM Guard
 
+## LLM security/safety metrics
 
+ASR Attack Success Rate
 
-# Метрики оценки
-
-##  Стандарты
+##  Standards
 
 CVSS
 
@@ -51,13 +66,13 @@ Vulners AI Score
 
 Методика оценки уровня опасностей уязвимостей ФСТЭК
 
-## Фреймворки
+## Frameworks
 
 https://github.com/owasp/www-project-artificial-intelligence-vulnerability-scoring-system
 
 
 
-## Статьи
+## Articles
 
 Системы оценки критичности уязвимостей в AI Security [https://habr.com/ru/articles/888048]
 
