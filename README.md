@@ -110,6 +110,8 @@ On the Validity of Traditional Vulnerability Scoring Systems for Adversarial Att
 
 Membership Inference Attacks Against Machine Learning Models [https://arxiv.org/pdf/1610.05820]
 
+Курс для новичков по langchain и langgraph https://habr.com/ru/companies/amvera/articles/933460/
+
 [back to Contents](#Contents)
 
 
