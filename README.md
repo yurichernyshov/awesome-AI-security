@@ -1,7 +1,7 @@
 # awesome-AI-security
 Links and materials about AI security
 
-#Contents
+# Contents
 
 [LLM security testing benchmarks](#LLM-security-testing-benchmarks)
 
@@ -35,26 +35,44 @@ CyberSecEval, HarmBench, SafeChain и SafeRBench.
 
 [back to Contents](#Contents)
 
+
+
 ## DevOps / MLOps / LLMOps / DevSecOps / MLSecOps / LLMSecOps / AppSec
 
 Работа с git https://git-scm.com/book/en/v2
 
+[back to Contents](#Contents)
+
+
 ## LLM attack tools
 
-garak
-promptfoo
-HiveTraceRed
-PyRIT
+### garak
+
+### promptfoo
+
+### HiveTraceRed
+
+### PyRIT
+
+[back to Contents](#Contents)
+
 
 ## LLM defent tools
-NEMO Guardrails
+
+### NEMO Guardrails
 https://github.com/NVIDIA-NeMo/Guardrails
 
-LLM Guard
+### LLM Guard
+
+[back to Contents](#Contents)
+
 
 ## LLM security/safety metrics
 
 ASR Attack Success Rate
+
+[back to Contents](#Contents)
+
 
 ##  Standards
 
@@ -74,10 +92,14 @@ Vulners AI Score
 
 Методика оценки уровня опасностей уязвимостей ФСТЭК
 
+[back to Contents](#Contents)
+
+
 ## Frameworks
 
 https://github.com/owasp/www-project-artificial-intelligence-vulnerability-scoring-system
 
+[back to Contents](#Contents)
 
 
 ## Articles
@@ -87,6 +109,9 @@ https://github.com/owasp/www-project-artificial-intelligence-vulnerability-scori
 On the Validity of Traditional Vulnerability Scoring Systems for Adversarial Attacks against LLMs [https://arxiv.org/abs/2412.20087]
 
 Membership Inference Attacks Against Machine Learning Models [https://arxiv.org/pdf/1610.05820]
+
+[back to Contents](#Contents)
+
 
 Что делать, когда все уязвимости одинаково опасны? [https://rezbez.ru/reviews/chto-delat-kogda-vse-uyazvimosti-odinakovo-opasny]
 
