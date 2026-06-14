@@ -1,11 +1,12 @@
-# awesome-AI-security
-Links and materials about AI security
+# About AI security
+
+Usefull links and materials
 
 # Contents
 
 [LLM security testing benchmarks](#LLM-security-testing-benchmarks)
 
-[DevOps / MLOps / LLMOps / DevSecOps / MLSecOps / LLMSecOps / AppSec](#DevOps-/-MLOps-/-LLMOps-/-DevSecOps-/-MLSecOps-/-LLMSecOps-/-AppSec)
+[xOps](#xOps)
 
 [LLM attack tools](#LLM-attack-tools)
 
@@ -31,13 +32,30 @@ Malicious-Educator
 
 HarmBench
 
-CyberSecEval, HarmBench, SafeChain и SafeRBench.
+CyberSecEval
+
+SafeChain
+
+SafeRBench
+
+JailbreakBench
+
+Lakera PINT
+
+HELM
+
+
+
+
+
 
 [back to Contents](#Contents)
 
 
 
-## DevOps / MLOps / LLMOps / DevSecOps / MLSecOps / LLMSecOps / AppSec
+## xOps 
+
+DevOps / MLOps / LLMOps / DevSecOps / MLSecOps / LLMSecOps / AppSec
 
 Работа с git https://git-scm.com/book/en/v2
 
@@ -57,7 +75,7 @@ CyberSecEval, HarmBench, SafeChain и SafeRBench.
 [back to Contents](#Contents)
 
 
-## LLM defent tools
+## LLM defend tools
 
 ### NEMO Guardrails
 https://github.com/NVIDIA-NeMo/Guardrails
@@ -70,6 +88,10 @@ https://github.com/NVIDIA-NeMo/Guardrails
 ## LLM security/safety metrics
 
 ASR Attack Success Rate
+
+RR Refusal Rate
+
+CLAE Cross Level Attack Efficiency
 
 [back to Contents](#Contents)
 
@@ -117,7 +139,6 @@ Membership Inference Attacks Against Machine Learning Models [https://arxiv.org/
 "Attention is all you need" (2017) - повяилась архитектура Transformers
 
 "ReAct: Synergizing Reasoning and Acting in Language Models" (2022) - началась современная эпоха LLM-агентов.
-
 
 [back to Contents](#Contents)
 
