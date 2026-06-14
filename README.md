@@ -112,6 +112,13 @@ Membership Inference Attacks Against Machine Learning Models [https://arxiv.org/
 
 Курс для новичков по langchain и langgraph https://habr.com/ru/companies/amvera/articles/933460/
 
+### Культовые статьи
+
+"Attention is all you need" (2017) - повяилась архитектура Transformers
+
+"ReAct: Synergizing Reasoning and Acting in Language Models" (2022) - началась современная эпоха LLM-агентов.
+
+
 [back to Contents](#Contents)
 
 
