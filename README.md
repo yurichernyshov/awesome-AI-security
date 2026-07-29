@@ -20,7 +20,12 @@ Usefull links and materials
 
 [Articles](#Articles)
 
+[Datasets](#Datasets)
 
+
+## Datasets
+
+UNSW-NB15 — это современный и сложный бенчмарк сетевого трафика, созданный в Австралийском центре кибербезопасности (ACCS) с помощью генератора IXIA PerfectStorm. Он состоит из почти 2,5 миллионов записей о сетевых соединениях. Каждое соединение описано 49 признаками (включая базовый поток Flow Features, содержимое пакетов Content Features, временные характеристики Time Features и общие атрибуты Additional Generated Features) и размечено как нормальное или одно из девяти типов атак (Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode, Worms).
 
 ## LLM security testing benchmarks
 
